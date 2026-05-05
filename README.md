@@ -8,11 +8,11 @@ This project analyzes sales, inventory risk, and customer behavior to identify d
 
 #Tech Stack
 
-SQL (Data Analysis)
+1.SQL (Data Analysis)
 
-Power BI (Dashboard & Visualization)
+2.Power BI (Dashboard & Visualization)
 
-Excel (Data Cleaning)
+3.Excel (Data Cleaning)
 
 #Key Metrics
 

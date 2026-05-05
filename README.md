@@ -16,26 +16,26 @@ This project analyzes sales, inventory risk, and customer behavior to identify d
 
 #Key Metrics
 
-Total Revenue: ₹15M
+1. Total Revenue: ₹15M
 
-Total Transactions: 5000
+2. Total Transactions: 5000
 
-Average Order Value: ₹3052
+3. Average Order Value: ₹3052
 
-Stockout Rate: ~52%
+4. Stockout Rate: ~52%
 
 
 #Key Insights
 
-Electronics category generates the highest revenue
+1. Electronics category generates the highest revenue
 
-TV is the top-performing product
+2. TV is the top-performing product
 
-Sales peak in August, indicating seasonal demand
+3. Sales peak in August, indicating seasonal demand
 
-Loyal customers contribute the majority of revenue
+4. Loyal customers contribute the majority of revenue
 
-Promotions provide moderate impact on sales
+5. Promotions provide moderate impact on sales
 
 
 #Critical Finding
@@ -44,18 +44,18 @@ High stockout rates are causing significant revenue loss despite strong product 
 
 #Business Impact
 
-Identified high-demand products facing frequent stockouts
+1. Identified high-demand products facing frequent stockouts
 
-Highlighted revenue loss due to inventory shortages
+2. Highlighted revenue loss due to inventory shortages
 
-Provided insights for demand forecasting and inventory planning
+3. Provided insights for demand forecasting and inventory planning
 
 #Recommendations
 
-Implement demand forecasting for seasonal planning
+1. Implement demand forecasting for seasonal planning
 
-Increase inventory for high-demand products
+2. Increase inventory for high-demand products
 
-Optimize promotion strategies
+3. Optimize promotion strategies
 
-Improve supply chain efficiency in key locations
+4. Improve supply chain efficiency in key locations
